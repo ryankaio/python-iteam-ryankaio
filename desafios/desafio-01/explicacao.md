@@ -1,7 +1,7 @@
 # Explicação — Desafio 01
 
-**Aluno:** _(seu nome)_  
-**Data:** _(data)_
+**Aluno:** Ryan Kaio 
+**Data:** 19/05/2026
 
 ---
 
