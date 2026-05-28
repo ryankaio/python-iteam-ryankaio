@@ -1,7 +1,7 @@
 # Explicação — Desafio 04 — Tabuada Personalizada
 
-**Aluno:** _(seu nome)_
-**Data:** _(data)_
+**Aluno:** _(Ryan Kaio Sena da Silva)_
+**Data:** _(27/05/2026)_
 
 ---
 

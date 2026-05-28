@@ -1,6 +1,6 @@
 Lista 01 — Questão 01: Modelo de Memória
-Aluno: (seu nome)
-Data:  (data)
+Aluno: (Ryan Kaio Sena da Silva)
+Data:  (26/05/2026)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ENUNCIADO:
@@ -19,5 +19,11 @@ Código:
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 SUA RESPOSTA:
 
-(escreva aqui com suas próprias palavras)
+(
+  a = [10, 20, 30, 40]
+  b = [10, 20, 30, 40]
+  c = [10, 20, 30, 40, 99]
+
+  Porque b=a não copia a lista. Apenas faz b apontar para o mesmo valor na memória, já c = a.copy() cria uma nova lista independente, por isso modificar c não altera a.
+)
 

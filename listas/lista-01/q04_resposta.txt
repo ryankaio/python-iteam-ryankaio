@@ -1,6 +1,6 @@
 Lista 01 — Questão 04: Rastreamento de Loop
-Aluno: (seu nome)
-Data:  (data)
+Aluno: (Ryan Kaio Sena da Silva)
+Data:  (26/06/2026)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ENUNCIADO:
@@ -17,5 +17,8 @@ Qual é o valor final de total? O que o código calcula?
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 SUA RESPOSTA:
 
-(escreva aqui com suas próprias palavras)
+(
+  print(9)
+  O codigo calcula e mostra a soma dos numeros impares.
+)
 

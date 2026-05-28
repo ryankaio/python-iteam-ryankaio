@@ -1,5 +1,5 @@
 Lista 01 — Questão 02: Tipos e Conversão
-Aluno: (seu nome)
+Aluno: (Ryan Kaio Sena da Silva)
 Data:  (data)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -17,5 +17,12 @@ Responda por raciocínio ANTES de executar. Depois confirme no REPL.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 SUA RESPOSTA:
 
-(escreva aqui com suas próprias palavras)
+(
+  print(type(10 / 2))         # tipo: float  valor: 5
+  print(type(10 // 2))        # tipo: int   valor: 5
+  print(int(3.9))             # tipo: int   valor: 3
+  print(bool([]))             # tipo: nool   valor: false
+  print(bool("False"))       # tipo: bool   valor: True
+  print(str(True) == "True") # tipo: bool   valor: True
+)
 
