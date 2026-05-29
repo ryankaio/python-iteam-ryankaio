@@ -1,6 +1,6 @@
 Lista 02 — Questão 07: Interpretação de Classe
-Aluno: (seu nome)
-Data:  (data)
+Aluno: (Ryan Kaio Sena da SIlva)
+Data:  (29/05/2026)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ENUNCIADO:
@@ -12,5 +12,14 @@ Leia a classe ContaBancaria do enunciado e responda SEM executar:
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 SUA RESPOSTA:
 
-(escreva aqui com suas próprias palavras)
+(
+
+(A) O self.saldo representa um atributo do objeto — ou seja, o saldo pertence aquela conta bancária específica, cada objeto possui seu próprio valor de saldo. Usamos self para referencia o próprio objeto atual, para que o valor fique armazenado no objeto e continue existindo após o método terminar.
+
+(B) Quando chamamos conta.sacar(2000) o saque não será realizado,o saldo continuará 500 e será exibida uma mensagem como:
+"Saldo insuficiente" pois o valor do saque é maior que o saldo em conta.
+
+(C) def __str__(self):
+      return f"Conta: {self.numero} | Saldo: R$ {self.saldo:.2f}"
+)
 

@@ -15,5 +15,5 @@ Em q05_resposta.txt: explique o que significa dizer que funções são
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 SUA RESPOSTA:
 
-(escreva aqui com suas próprias palavras)
+()
 

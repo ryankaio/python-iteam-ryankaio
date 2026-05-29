@@ -15,5 +15,5 @@ Em q09_resposta.txt: explique a diferença entre _atributo e __atributo em Pytho
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 SUA RESPOSTA:
 
-(escreva aqui com suas próprias palavras)
+(Em Python, _atributo e __atributo possuem significados diferentes relacionados a encapsulamento e convenções de acesso, Um atributo com um underline é apenas uma convenção indicando: “Este atributo é interno da classe e não deveria ser acessado diretamente fora dela, o python não bloqueia o acesso, o underline simples serve apenas como aviso para programadores. Com dois underlines, Python altera internamente o nome do atributo para dificultar acesso direto, é um mecanismo para evitar acesso acidental e conflitos em herança, o double underscore é usado principalmente para: evitar conflitos em subclasses, proteger atributos internos da classe, dificultar acesso indevido)
 

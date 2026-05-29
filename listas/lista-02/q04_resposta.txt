@@ -1,6 +1,6 @@
 Lista 02 — Questão 04: Escopo — LEGB
-Aluno: (seu nome)
-Data:  (data)
+Aluno: (Ryan Kaio Sena da Silva)
+Data:  (29/05/2026)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ENUNCIADO:
@@ -22,5 +22,11 @@ Explique a regra de escopo (LEGB) que determina cada resultado.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 SUA RESPOSTA:
 
-(escreva aqui com suas próprias palavras)
+(
+(a) -> enclosing
+(b) -> enclosing
+(c) -> global
+
+ v
+)
 

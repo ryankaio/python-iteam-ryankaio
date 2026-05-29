@@ -1,6 +1,6 @@
 # Lista 02 — Questão 06: Módulo de Estatísticas (programa principal)
-# Aluno: (seu nome)
-# Data:  (data)
+# Aluno: (Ryan Kaio Sena da Silva)
+# Data:  (29/05/2026)
 
 # ── Enunciado ───────────────────────────────────────────────────────────────
 # q06_estatisticas.py: crie o módulo com as funções:
@@ -13,3 +13,32 @@
 # digitadas pelo usuário.
 
 # ── Sua solução abaixo ──────────────────────────────────────────────────────
+
+import q06_estatisticas as est
+
+
+notas = []
+
+print("Digite 10 notas:")
+
+while len(notas) < 10:
+
+    try:
+        nota = float(input(f"Nota {len(notas) + 1}: "))
+
+        notas.append(nota)
+
+    except ValueError:
+        print("Digite um número válido.")
+
+
+print("\n===== RESULTADOS =====")
+
+try:
+    print(f"Média: {est.media(notas)}")
+    print(f"Mediana: {est.mediana(notas)}")
+    print(f"Moda: {est.moda(notas)}")
+    print(f"Desvio padrão: {est.desvio_padrao(notas)}")
+
+except ValueError as erro:
+    print(f"Erro: {erro}")

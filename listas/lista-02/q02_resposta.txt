@@ -1,6 +1,6 @@
 Lista 02 — Questão 02: Escolha da Estrutura
-Aluno: (seu nome)
-Data:  (data)
+Aluno: (Ryan Kaio Sena da Silva)
+Data:  (29/05/2026)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ENUNCIADO:
@@ -14,5 +14,11 @@ Para cada cenário, indique a estrutura mais adequada (list/tuple/dict/set) e ju
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 SUA RESPOSTA:
 
-(escreva aqui com suas próprias palavras)
+(
+(a) = tuple -> Coordenadas têm quantidade fixa de elementos e normalmente não devem ser alteradas.
+(b) = set -> set não permite duplicatas e possui busca muito rápida, ideal para verificar se um CPF já existe.
+(c) = dict -> Dicionários armazenam pares chave valor, são uma otima escolha para relacionar código do produto ao preço.
+(d) = list -> A quantidade de notas pode aumentar com o tempo. Listas são mutáveis e permitem adicionar novos elementos facilmente.
+(e) = tuple -> Os dias úteis são valores fixos e imutáveis.
+)
 
