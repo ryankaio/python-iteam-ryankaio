@@ -1,6 +1,6 @@
 Lista 01 — Questão 09: EAFP vs LBYL
-Aluno: (seu nome)
-Data:  (data)
+Aluno: (Ryan Kaio Sena da Silva)
+Data:  (28/05/2026)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ENUNCIADO:
@@ -17,5 +17,5 @@ Em q09_resposta.txt: explique o que significa EAFP e qual versão é mais Pythô
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 SUA RESPOSTA:
 
-(escreva aqui com suas próprias palavras)
+(EAFP significa: "Easier to Ask Forgiveness than Permission", em português: “É mais fácil pedir perdão do que pedir permissão”. A ideia é tentar executar a operação diretamente e tratar o erro apenas se ele acontecer.)
 

@@ -1,6 +1,6 @@
 # Lista 01 — Questão 05: Encontre o Bug
-# Aluno: (seu nome)
-# Data:  (data)
+# Aluno: (Ryan Kaio Sena da Silva)
+# Data:  (28/05/2026)
 
 # ── Enunciado ───────────────────────────────────────────────────────────────
 # O código abaixo tem um bug lógico — executa sem erros, mas produz resultado errado.

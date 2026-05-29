@@ -1,6 +1,6 @@
 Lista 01 — Questão 10: Análise Crítica de Código
-Aluno: (seu nome)
-Data:  (data)
+Aluno: (Ryan Kaio Sena da Silva)
+Data:  (28/05/2026)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ENUNCIADO:
@@ -19,5 +19,7 @@ Dica: há um problema em: (1) definição da função, (2) como o loop é escrit
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 SUA RESPOSTA:
 
-(escreva aqui com suas próprias palavras)
+(Evitar lista mutável como parâmetro padrão, listas são mutáveis e reutilizadas entre chamadas, causando bugs inesperados, para evitar isso é trocado para alunos=None e inicializado com [] dentro da função.
+Em vez de usar range(len(alunos)), percorremos diretamente os elementos da lista, Substituindo por: (for aluno in alunos), ficando mais limpo e legível.
+Subistituimos (aprovados = aprovados + [alunos[i]['nome']]) por (append()) é mais eficiente e mais legível do que criar uma nova lista.)
 

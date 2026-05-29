@@ -1,6 +1,6 @@
 Lista 01 — Questão 08: is vs ==
-Aluno: (seu nome)
-Data:  (data)
+Aluno: (Ryan Kaio Sena da Silva)
+Data:  (28/05/2026)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ENUNCIADO:
@@ -11,5 +11,21 @@ Em que situação é correto usar is em código profissional?
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 SUA RESPOSTA:
 
-(escreva aqui com suas próprias palavras)
+(O operador is verifica se duas variáveis apontam para o mesmo objeto na memória,
+
+a = [1, 2, 3]
+b = [1, 2, 3]
+
+print(a is b) #False
+A saida será falso, embora os valores sejam iguais, são listas diferentes criadas separadamente.
+
+O operador == verifica se dois objetos possuem o mesmo conteúdo,
+a = [1, 2, 3]
+b = [1, 2, 3]
+
+print(a == b) #True
+A saida será true, pois as listas têm os mesmos valores.
+
+== -> verdadeiro porque os conteúdos são iguais.
+is -> falso porque são objetos diferentes.)
 
